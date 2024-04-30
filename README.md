@@ -1,8 +1,5 @@
-### Everyday is a new day to learn and here is what my goal is! 👋
-
-- 🔭 I’m currently working with ... MERN & PERN stack (MongoDB / PostgresSQL, Express.js, React.js, Node.js and TypeScript.)
-- 🌱 I’m currently learning ... PostgresSQL, MySQL, Prisma, DSA, Java
-- 🤔 I’m looking for help with ... DSA / Java
-- 💬 Ask me about ... frontend development!
-- 📫 How to reach me: ... [LinkedIn] (//)
-- ⚡ Fun fact: ... I play guitar when I cant come up with a solution.
+# Fullstack Developer
+- I am a frontend developer with 2 years of experience building enterprise grade robust web applications.
+- I have extended by skills by building a PERN application in order to explore the depth of backend.
+- Curiousity and the thrill to better myself as a developer made me complete IBM Full Stack Software Developer by Coursera.
+- I am currently doing 100 Days of Code: The Complete Python Pro Bootcamp
