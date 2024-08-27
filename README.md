@@ -6,4 +6,6 @@
 
 
 
-[![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=am1553)](https://github.com/anuraghazra/github-readme-stats)
+![Aryan's Stats](https://github-readme-stats.vercel.app/api?username=am1553&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Aryan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=am1553&theme=dark&hide_border=true)
+![Aryan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=am1553&theme=dark&show_icons=true&hide_border=true&layout=compact)
