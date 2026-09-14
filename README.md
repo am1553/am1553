@@ -34,7 +34,7 @@ The application supports:
 
 **39 automated tests** across the frontend and backend, including real PostgreSQL integration tests.
 
-> Add your repository link here once the repo is public and polished.
+[Project Repo](https://github.com/am1553/issue-reporting)
 
 ## Professional development
 
